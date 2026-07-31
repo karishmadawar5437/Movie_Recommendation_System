@@ -1,3 +1,4 @@
+^^^^^
 # macOS
 .DS_Store
 
@@ -47,3 +48,6 @@ models/similarity.pkl
 
 # Raw data (optional)
 data/raw/
+
+# Cache files
+data/cache/
