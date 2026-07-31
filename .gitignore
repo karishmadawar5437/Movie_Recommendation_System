@@ -1,0 +1,49 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environments
+venv/
+env/
+.venv/
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment Variables
+.env
+.env.*
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+
+# API files
+dashboard/config.py
+scripts/generate_posters_csv.py
+
+
+# Generated images (optional)
+images/generated/
+
+
+# Large ML models
+models/similarity.pkl
+
+# Raw data (optional)
+data/raw/
