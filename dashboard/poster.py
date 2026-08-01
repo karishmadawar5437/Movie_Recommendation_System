@@ -3,9 +3,10 @@ import hashlib
 import requests
 import streamlit as st
 
-import streamlit as st
-
-OMDB_API_KEY = st.secrets["OMDB_API_KEY"]
+try:
+    OMDB_API_KEY = st.secrets["OMDB_API_KEY"]
+except Exception:
+    from config import OMDB_API_KEY
 
 PLACEHOLDER = "https://placehold.co/300x450/png?text=Movie"
 
