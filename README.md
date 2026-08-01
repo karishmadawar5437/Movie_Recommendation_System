@@ -1,8 +1,12 @@
-# 🎬 CineMatch AI
+# 🎬 CineMatch AI – Movie Recommendation System
 
 An AI-powered Movie Recommendation System built with **Python**, **Streamlit**, and **Machine Learning**.
 
 CineMatch AI recommends movies based on content similarity and provides rich movie information including posters, trailers, analytics, favorites, and interactive dashboards.
+
+---
+
+![Python](https://img.shields.io/badge/Python-3.12-blue)     ![Streamlit](https://img.shields.io/badge/Streamlit-Live-red)   ![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)     ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ---
 
@@ -25,16 +29,28 @@ CineMatch AI recommends movies based on content similarity and provides rich mov
 
 ## 🛠 Technologies Used
 
+### Programming
+
 - Python
+
+### Framework
+
 - Streamlit
+
+### Libraries
+
 - Pandas
-- Scikit-Learn
+- NumPy
+- Scikit-learn
 - Plotly
 - Requests
+
+### APIs
+
 - OMDb API
 - YouTube Search API
-
 ---
+
 
 ## 📂 Project Structure
 
@@ -68,6 +84,21 @@ Movie_recommendation_system/
 
 ---
 
+## 📂 Dataset
+
+The project uses a movie metadata dataset containing:
+
+- Movie titles
+- Genres
+- Ratings
+- Popularity
+- Release dates
+- Movie overviews
+
+The dataset was cleaned and preprocessed using Pandas before building the recommendation engine.
+
+---
+
 ## 🎯 Machine Learning
 
 The recommendation engine uses
@@ -96,7 +127,7 @@ The application provides
 
 ### Home Page
 
-![Home](imaages/home.png)
+![Home](images/home.png)
 
 ---
 
@@ -120,7 +151,7 @@ The application provides
 
 ### Favorites
 
-![Favorites](images/favorites.png)
+![Favorites](images/favourites.png)
 
 ---
 
@@ -135,13 +166,13 @@ The application provides
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/CineMatch-AI.git
+git clone https://github.com/karishmadawar5437/Movie_Recommendation_System.git
 ```
 
 Go to project
 
 ```bash
-cd CineMatch-AI
+cd Movie_Recommendation_System
 ```
 
 Install dependencies
@@ -177,19 +208,21 @@ YOUTUBE_API_KEY = "YOUR_API_KEY"
 
 ## 📈 Future Improvements
 
-- User Login
+- User Authentication
 - Collaborative Filtering
-- Deep Learning Recommendation
-- User Ratings
-- Watchlist
+- Deep Learning Recommendations
+- User Ratings & Reviews
+- Personalized Watchlists
+- Movie Search by Voice
 - Cloud Deployment
-
+- Mobile Responsive Design
 ---
 
 ## 👩‍💻 Developer
 
-**Karishma**
+**Karishma Dawar**
 
-Built with ❤️ using Python & Streamlit.
-
+- AI & Data Science Student
+- Passionate about Machine Learning and Data Science
+- Built with ❤️ using Python, Streamlit and Machine Learning.
 ---
