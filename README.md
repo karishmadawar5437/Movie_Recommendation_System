@@ -10,6 +10,12 @@ CineMatch AI recommends movies based on content similarity and provides rich mov
 
 ---
 
+## 🚀 Live Demo
+
+🔗 Streamlit App: https://movierecommendationsystem-e64itaawmuufzdlh6dhvy4.streamlit.app/
+
+---
+
 ## 🚀 Features
 
 - 🔍 Search any movie instantly
