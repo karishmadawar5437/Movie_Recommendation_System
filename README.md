@@ -200,8 +200,8 @@ config.py
 Add your API keys
 
 ```python
-OMDB_API_KEY = "YOUR_API_KEY"
-YOUTUBE_API_KEY = "YOUR_API_KEY"
+st.secrets["OMDB_API_KEY"]
+st.secrets["YOUTUBE_API_KEY"]
 ```
 
 ---
