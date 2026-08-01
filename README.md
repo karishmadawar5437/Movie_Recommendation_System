@@ -206,6 +206,16 @@ st.secrets["YOUTUBE_API_KEY"]
 
 ---
 
+## Challenges
+
+• Handling missing posters
+• Integrating OMDb API
+• Optimizing Streamlit loading speed
+• Trailer caching
+• GitHub secret management
+
+---
+
 ## 📈 Future Improvements
 
 - User Authentication
