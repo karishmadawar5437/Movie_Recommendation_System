@@ -46,8 +46,6 @@ images/generated/
 # Large ML models
 models/similarity.pkl
 
-# Raw data (optional)
-data/raw/
 
 # Cache files
 data/cache/
