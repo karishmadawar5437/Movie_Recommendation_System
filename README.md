@@ -16,6 +16,13 @@ CineMatch AI recommends movies based on content similarity and provides rich mov
 
 ---
 
+## 📄 Project Report
+
+The complete project report is available here:
+
+📥 [CineMatch AI Project Report](report/CineMatch_AI_Project_Report.pdf)
+---
+
 ## 🚀 Features
 
 - 🔍 Search any movie instantly
