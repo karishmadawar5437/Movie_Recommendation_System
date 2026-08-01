@@ -3,7 +3,9 @@ import hashlib
 import requests
 import streamlit as st
 
-from config import YOUTUBE_API_KEY
+import streamlit as st
+
+YOUTUBE_API_KEY = st.secrets["YOUTUBE_API_KEY"]
 
 # --------------------------------------------------
 # Base Directory
