@@ -43,9 +43,5 @@ scripts/generate_posters_csv.py
 images/generated/
 
 
-# Large ML models
-models/similarity.pkl
-
-
 # Cache files
 data/cache/
